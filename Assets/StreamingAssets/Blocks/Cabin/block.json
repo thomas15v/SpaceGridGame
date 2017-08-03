@@ -1,0 +1,11 @@
+{
+  "baseImage": "base.png",
+  "leftOpenImage": "vertical_open.png",
+  "rightOpenImage": "vertical_open.png",
+  "topOpenImage": "horizontal_open.png",
+  "bottomOpenImage": "horizontal_open.png",
+  "leftClosedImage": "vertical_closed.png",
+  "rightClosedImage": "vertical_closed.png",
+  "topClosedImage": "horizontal_closed.png",
+  "bottomClosedImage": "horizontal_closed.png"
+}

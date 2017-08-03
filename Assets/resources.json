@@ -1,0 +1,32 @@
+{
+  "fuel.hydrogen": {
+    "name": "Hydrogen"
+  },
+  "fuel.electricty": {
+    "name": "Electricty"
+  },
+  "lifesupport.food": {
+    "name": "Food"
+  },
+  "lifesupport.oxygen": {
+    "name": "Oxygen"
+  },
+  "lifesupport.waste": {
+    "name": "Waste"
+  },
+  "resource.iron": {
+    "name": "Iron"
+  },
+  "resource.carbon": {
+    "name": "Carbon"
+  },
+  "resource.titanium": {
+    "name": "Titanium"
+  },
+  "resource.copper": {
+    "name": "Copper"
+  },
+  "resource.gold": {
+    "name": "Gold"
+  }
+}
