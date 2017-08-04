@@ -1,11 +1,12 @@
 {
-  "baseImage": "base.png",
-  "leftOpenImage": "vertical_open.png",
-  "rightOpenImage": "vertical_open.png",
-  "topOpenImage": "horizontal_open.png",
-  "bottomOpenImage": "horizontal_open.png",
-  "leftClosedImage": "vertical_closed.png",
-  "rightClosedImage": "vertical_closed.png",
-  "topClosedImage": "horizontal_closed.png",
-  "bottomClosedImage": "horizontal_closed.png"
+  "Name": "Cabin",
+  "BaseImage": "base.jpg",
+  "LeftOpenImage": "vertical_open.png",
+  "RightOpenImage": "vertical_open.png",
+  "TopOpenImage": "horizontal_open.png",
+  "BottomOpenImage": "horizontal_open.png",
+  "LeftClosedImage": "vertical_closed.png",
+  "RightClosedImage": "vertical_closed.png",
+  "TopClosedImage": "horizontal_closed.png",
+  "BottomClosedImage": "horizontal_closed.png"
 }
