@@ -1,12 +1,9 @@
 {
+  "id": "base.block.cabin",
   "Name": "Cabin",
   "BaseImage": "base.jpg",
-  "LeftOpenImage": "vertical_open.png",
-  "RightOpenImage": "vertical_open.png",
-  "TopOpenImage": "horizontal_open.png",
-  "BottomOpenImage": "horizontal_open.png",
-  "LeftClosedImage": "vertical_closed.png",
-  "RightClosedImage": "vertical_closed.png",
-  "TopClosedImage": "horizontal_closed.png",
-  "BottomClosedImage": "horizontal_closed.png"
+  "BottomImage": "vertical.png",
+  "LeftImage": "vertical.png",
+  "RightImage": "vertical.png",
+  "BottomImage": "vertical.png"
 }

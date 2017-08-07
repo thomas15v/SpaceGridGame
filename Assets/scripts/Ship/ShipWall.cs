@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
-public class Block : MonoBehaviour
-{
+public class ShipWall : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
